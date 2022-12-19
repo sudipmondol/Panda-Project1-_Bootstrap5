@@ -81,13 +81,13 @@ height: 100%;
 }
 
 .banner-2{
-   width: 100%;
-   margin: 0 auto;
+
 }
 
 .banner-details-2{
 background-color: white;
 border-radius: 10px;
+padding-bottom: 15px;
 
 
 }
@@ -117,7 +117,10 @@ border-radius: 10px;
    color: white !important;
 }
 
-
 /* Section Part End 3 */
+
+/* Section Part Start 4 */
+
+/* Section Part End 4 */
 
 
