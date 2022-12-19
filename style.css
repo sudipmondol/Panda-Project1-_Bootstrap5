@@ -119,8 +119,18 @@ padding-bottom: 15px;
 
 /* Section Part End 3 */
 
-/* Section Part Start 4 */
+/* Footer Part Start  */
 
-/* Section Part End 4 */
+.foot-con{
+    background-color:#FCEAEB;
+   
+}
+
+.input-last{
+    width: 50%;
+    text-align: center;
+}
+
+/* Footer Part End  */
 
 
