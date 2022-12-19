@@ -75,6 +75,49 @@ height: 100%;
 
 
 /* Section Part Start 3 */
-/* Section Part End 23 */
+
+.main-container{
+    background-color:#FCEAEB;
+}
+
+.banner-2{
+   width: 100%;
+   margin: 0 auto;
+}
+
+.banner-details-2{
+background-color: white;
+border-radius: 10px;
+
+
+}
+
+.banner-shoe{
+    text-align: center;
+}
+.banner-shoe-details{
+    text-align: center;
+}
+
+.prise-2{
+    color:rgb(228, 15, 157) ;
+    margin-top: 30px !important;
+    text-align: center;
+
+}
+.btnbtn-2{
+    background-color:rgb(228, 15, 157) !important;
+    border: none;
+    color: black !important;
+    margin-top: 10px !important;
+    text-align: center;
+}
+
+.btnbtn-2:hover{
+   color: white !important;
+}
+
+
+/* Section Part End 3 */
 
 
