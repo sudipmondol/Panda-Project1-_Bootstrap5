@@ -1,4 +1,62 @@
+
+/* Header Part Start */
+
 *{
     margin: 0 auto;
     padding: 0 auto;
 }
+
+.btn-search{
+    border:1px solid rgba(14, 1, 1, 0.288) !important;
+    color: rgba(20, 20, 20, 0.979) !important;
+}
+.btn-search:hover{
+    background-color: rgb(228, 15, 157) !important;
+    color: white !important;
+}
+.menu:hover{
+    color:rgb(228, 15, 157) !important ;
+
+}
+
+/* Header Part End */
+
+/* Section Part Start  */
+
+.banner-details{
+    background-color:#FCEAEB;
+    width: 100%;
+    height: 350px;
+
+}
+.prise{
+    color:rgb(228, 15, 157) ;
+    margin-top: 60px !important;
+
+}
+.btnbtn{
+    background-color:rgb(228, 15, 157) !important;
+    border: none;
+    color: black !important;
+    margin-top: 10px !important;
+}
+.btnbtn:hover{
+   color: white !important;
+}
+
+.banner-tv{
+    background-color:#FCEAEB;
+    width: 100%;
+    height: 300px;
+
+}
+
+.banner-image{
+width: 100%;
+height: 100%;
+}
+
+
+/* Section Part End  */
+
+
