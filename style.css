@@ -21,17 +21,19 @@
 
 /* Header Part End */
 
-/* Section Part Start  */
+/* Section Part Start 1 */
+
+.banner{
+    background-color:#FCEAEB;
+}
 
 .banner-details{
-    background-color:#FCEAEB;
-    width: 100%;
-    height: 350px;
+    height: 300px;
 
 }
 .prise{
     color:rgb(228, 15, 157) ;
-    margin-top: 60px !important;
+    margin-top: 30px !important;
 
 }
 .btnbtn{
@@ -40,13 +42,13 @@
     color: black !important;
     margin-top: 10px !important;
 }
+
 .btnbtn:hover{
    color: white !important;
 }
 
 .banner-tv{
     background-color:#FCEAEB;
-    width: 100%;
     height: 300px;
 
 }
@@ -56,7 +58,23 @@ width: 100%;
 height: 100%;
 }
 
+.box{
+    border: 2px solid red;
+}
+/* Section Part End 1  */
 
-/* Section Part End  */
+
+
+/* Section Part Start 2 */
+
+.box-img{
+    height: 100px;
+}
+
+/* Section Part End 2 */
+
+
+/* Section Part Start 3 */
+/* Section Part End 23 */
 
 
